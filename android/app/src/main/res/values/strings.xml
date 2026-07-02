@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VitalFi</string>
+    <string name="offline_badge">Funciona sin internet — 100% offline</string>
+    <string name="offline_hint">Solo necesitas señal Wi-Fi local del router (sin datos móviles ni internet).</string>
+    <string name="mode_connected_hint">Modo conectado: mejor muestreo. El router no necesita internet.</string>
+    <string name="mode_passive_hint">Modo escaneo: no conectes al router. Funciona sin datos ni internet.</string>
+    <string name="wifi_required">Activa Wi-Fi en el teléfono (no hace falta internet).</string>
+    <string name="about_title">Acerca de VitalFi</string>
+    <string name="about_button">Acerca de</string>
+    <string name="about_developer">Desarrollador</string>
+    <string name="about_name">Carlos Mundaray</string>
+    <string name="about_whatsapp">WhatsApp: +58 424 3513857</string>
+    <string name="about_facebook">Facebook: mundaraycarlos</string>
+    <string name="about_website">Web: solvitco.com</string>
+    <string name="about_whatsapp_url">https://wa.me/584243513857</string>
+    <string name="about_facebook_url">https://www.facebook.com/mundaraycarlos/</string>
+    <string name="about_website_url">https://solvitco.com/</string>
+    <string name="about_close">Cerrar</string>
+    <string name="about_version">Versión %1$s</string>
+</resources>
