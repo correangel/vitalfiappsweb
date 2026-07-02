@@ -16,6 +16,8 @@ htmlcov/
 .gradle/
 build/
 local.properties
+keystore.properties
+keystore/
 .navigation/
 captures/
 .externalNativeBuild/
